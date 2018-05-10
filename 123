@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /A/
+Disallow: /B/
+Disallow: /c/
+Disallow: /e/
+Disallow: /123.jpg
+
+User-agent: baidu.com
+Disallow: /SEO/
+Disallow: /123.gif
+
+Sitemap: https://z1394569588.github.io/sitemap.xml
