@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /favicon.ico
+
+Sitemap: https://z1394569588.github.io/sitemap.xml
